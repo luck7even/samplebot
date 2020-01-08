@@ -3,7 +3,7 @@
 import os
 
 # default language ['en'|'ko'|'ja']
-DEFAULT_LANG = 'kr'
+DEFAULT_LANG = 'ko'
 
 # TimeZone
 TZone = "Asia/Seoul"
