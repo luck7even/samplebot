@@ -3,10 +3,10 @@
 import os
 
 # default language ['en'|'ko'|'ja']
-DEFAULT_LANG = 'ja'
+DEFAULT_LANG = 'ko'
 
 # TimeZone
-TZone = "Asia/Tokyo"
+TZone = "Asia/Seoul"
 
 # account
 ADMIN_ACCOUNT = "admin@bt.lwba.kr"
