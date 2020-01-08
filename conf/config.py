@@ -6,7 +6,7 @@ import os
 DEFAULT_LANG = 'ko'
 
 # TimeZone
-TZone = "Asia/Seoul"
+TZone = "Asia/tyoko"
 
 # account
 ADMIN_ACCOUNT = "admin@bt.lwba.kr"
