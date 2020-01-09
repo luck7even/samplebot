@@ -93,8 +93,8 @@ def get_i18n_content_by_lang(fmt, local, lang, **kw):
     :return: a string.
     """
           
-    local_map = {'en': 'en_US', 'ja': 'ja_JP', 'kr': 'ko_KR'}
-    # local_map = {'en': 'en_US', 'ja': 'ja_JP', 'ko': 'ko_KR'}
+    # local_map = {'en': 'en_US', 'ja': 'ja_JP', 'kr': 'ko_KR'}
+    local_map = {'en': 'en_US', 'ja': 'ja_JP', 'ko': 'ko_KR'}
     
     local_text = gettext.translation(local, 'locales', [lang])
 
